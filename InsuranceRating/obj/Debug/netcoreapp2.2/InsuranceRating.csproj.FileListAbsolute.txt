@@ -1,0 +1,15 @@
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\bin\Debug\netcoreapp2.2\policy.json
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\bin\Debug\netcoreapp2.2\samplePolicies.json.txt
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\bin\Debug\netcoreapp2.2\ArdalisRating.deps.json
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\bin\Debug\netcoreapp2.2\ArdalisRating.runtimeconfig.json
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\bin\Debug\netcoreapp2.2\ArdalisRating.runtimeconfig.dev.json
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\bin\Debug\netcoreapp2.2\ArdalisRating.dll
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\bin\Debug\netcoreapp2.2\ArdalisRating.pdb
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\obj\Debug\netcoreapp2.2\ArdalisRating.csproj.AssemblyReference.cache
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\obj\Debug\netcoreapp2.2\ArdalisRating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\obj\Debug\netcoreapp2.2\ArdalisRating.AssemblyInfoInputs.cache
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\obj\Debug\netcoreapp2.2\ArdalisRating.AssemblyInfo.cs
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\obj\Debug\netcoreapp2.2\ArdalisRating.csproj.CoreCompileInputs.cache
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\obj\Debug\netcoreapp2.2\ArdalisRating.dll
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\obj\Debug\netcoreapp2.2\ArdalisRating.pdb
+C:\Users\adoma\source\repos\solid\solidsample\ArdalisRating\obj\Debug\netcoreapp2.2\ArdalisRating.genruntimeconfig.cache
