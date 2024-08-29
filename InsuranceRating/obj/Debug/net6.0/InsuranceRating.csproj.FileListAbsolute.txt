@@ -75,3 +75,4 @@ C:\git\Zavrsni\InsuranceRating\obj\Debug\net6.0\refint\InsuranceRating.dll
 C:\git\Zavrsni\InsuranceRating\obj\Debug\net6.0\InsuranceRating.pdb
 C:\git\Zavrsni\InsuranceRating\obj\Debug\net6.0\InsuranceRating.genruntimeconfig.cache
 C:\git\Zavrsni\InsuranceRating\obj\Debug\net6.0\ref\InsuranceRating.dll
+C:\git\Zavrsni\InsuranceRating\obj\Debug\net6.0\InsuranceRating.sourcelink.json

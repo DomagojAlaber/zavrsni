@@ -39,6 +39,6 @@
             Rating = rater.Rate(policy);
 
             _logger.Log("Rating completed.");
-        }
+        } 
     }
 }

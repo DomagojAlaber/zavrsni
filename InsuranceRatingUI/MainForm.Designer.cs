@@ -32,11 +32,13 @@
             txtPolicy = new RichTextBox();
             lblRating = new Label();
             lblValue = new Label();
+            btnHelp = new Button();
+            btnImport = new Button();
             SuspendLayout();
             // 
             // btnRate
             // 
-            btnRate.Location = new Point(60, 12);
+            btnRate.Location = new Point(158, 12);
             btnRate.Name = "btnRate";
             btnRate.Size = new Size(75, 23);
             btnRate.TabIndex = 0;
@@ -44,18 +46,18 @@
             btnRate.UseVisualStyleBackColor = true;
             btnRate.Click += btnRate_Click;
             // 
-            // richTextBox1
+            // txtPolicy
             // 
             txtPolicy.Location = new Point(12, 55);
-            txtPolicy.Name = "richTextBox1";
-            txtPolicy.Size = new Size(172, 286);
+            txtPolicy.Name = "txtPolicy";
+            txtPolicy.Size = new Size(373, 307);
             txtPolicy.TabIndex = 1;
             txtPolicy.Text = "";
             // 
             // lblRating
             // 
             lblRating.AutoSize = true;
-            lblRating.Location = new Point(16, 365);
+            lblRating.Location = new Point(12, 381);
             lblRating.Name = "lblRating";
             lblRating.Size = new Size(71, 15);
             lblRating.TabIndex = 2;
@@ -64,22 +66,44 @@
             // lblValue
             // 
             lblValue.AutoSize = true;
-            lblValue.Location = new Point(93, 365);
+            lblValue.Location = new Point(89, 381);
             lblValue.Name = "lblValue";
-            lblValue.Size = new Size(0, 15);
+            lblValue.Size = new Size(35, 15);
             lblValue.TabIndex = 3;
+            // 
+            // btnHelp
+            // 
+            btnHelp.Location = new Point(310, 480);
+            btnHelp.Name = "btnHelp";
+            btnHelp.Size = new Size(75, 23);
+            btnHelp.TabIndex = 4;
+            btnHelp.Text = "Need help?";
+            btnHelp.UseVisualStyleBackColor = true;
+            btnHelp.Click += btnHelp_Click;
+            // 
+            // btnImport
+            // 
+            btnImport.Location = new Point(12, 480);
+            btnImport.Name = "btnImport";
+            btnImport.Size = new Size(75, 23);
+            btnImport.TabIndex = 5;
+            btnImport.Text = "Import";
+            btnImport.UseVisualStyleBackColor = true;
+            btnImport.Click += btnImport_Click;
             // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(201, 506);
+            ClientSize = new Size(397, 506);
+            Controls.Add(btnImport);
+            Controls.Add(btnHelp);
             Controls.Add(lblValue);
             Controls.Add(lblRating);
             Controls.Add(txtPolicy);
             Controls.Add(btnRate);
             Name = "MainForm";
-            Text = "Form1";
+            Text = "Welcome to my rating engine!";
             ResumeLayout(false);
             PerformLayout();
         }
@@ -90,5 +114,7 @@
         private RichTextBox txtPolicy;
         private Label lblRating;
         private Label lblValue;
+        private Button btnHelp;
+        private Button btnImport;
     }
 }

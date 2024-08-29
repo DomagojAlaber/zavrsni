@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsuranceRatingUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+725081e3c5fb0dd4dced35a531dd4134a25f9014")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsuranceRatingUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsuranceRatingUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
